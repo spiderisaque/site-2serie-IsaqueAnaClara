@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>EXERCÍCIO 1</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="container">
+  <h1>Exercício 1 - Alert</h1>
+  <br/>
+  <br/>
+  <a href="index.html" class="botao-voltar">Voltar</a>
+</div>
+</body>
+</html>
