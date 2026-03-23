@@ -13,5 +13,8 @@
   <br/>
   <a href="index.html" class="botao-voltar">Voltar</a>
 </div>
+<script>
+  alert("Olá mundo");
+</script>
 </body>
 </html>
